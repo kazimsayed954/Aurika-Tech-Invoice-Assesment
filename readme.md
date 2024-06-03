@@ -17,7 +17,7 @@ This service generates PDF invoices based on provided data and serves them via a
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/invoice-service.git
+    git clone https://github.com/kazimsayed954/Aurika-Tech-Invoice-Assesment
     cd backend
     ```
 
